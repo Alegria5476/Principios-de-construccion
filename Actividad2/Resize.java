@@ -1,5 +1,5 @@
 public interface Resize {
 
-    void resize (double faactor);
+    void resize (double factor);
 
 }
